@@ -1,0 +1,31 @@
+:root {
+    --warnautama: #2C3333;
+    --warnasecond: #3F4E4F;
+}
+
+.dark-mode {
+    color: white;
+}
+
+#profile {
+    padding-top: 5rem;
+    background-color: var(--warnautama);
+} 
+
+#about {
+    padding-top: 5rem;
+    background-color: var(--warnasecond);
+}
+
+#Project {
+    padding-top: 5rem;
+    background-color: var(--warnautama);
+}
+
+.kartu {
+    margin-top: 3rem;
+}
+
+footer {
+    background-color: var(--warnasecond);
+}
